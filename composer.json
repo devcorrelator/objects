@@ -15,7 +15,7 @@
 		"components/jqueryui": "*",
 		"devcorrelator/tipsy":  "*",
 		"devcorrelator/ionicons": "*",
-		"devcorrelator/tooltipster": "*",
+		"devcorrelator/tooltipster": "*"
 	},
 	"extra": {
 		"component": {
