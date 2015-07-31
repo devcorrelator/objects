@@ -1,0 +1,29 @@
+{
+    "name": "devcorrelator/objects",
+    "description": "jQuery objects",
+    "type": "component",
+    "homepage": "https://github.com/devcorrelator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dev Correlator",
+            "email": "devcorrelator@gmail.com"
+        }
+    ],
+    "extra": {
+        "component": {
+            "files": [
+                "jquery.objects.base.js",
+                "jquery.objects.message.js",
+                "jquery.objects.table.js",
+                "jquery.objects.list.js",
+                "jquery.objects.tabs.js",
+                "jquery.objects.stats.js",
+                "jquery.objects.dashboard.js",
+                "jquery.objects.dashboard-block.js",
+                "jquery.objects.form.js",
+                "jquery.objects.page-options.js"
+            ]
+        }
+    }
+}
