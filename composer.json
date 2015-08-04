@@ -31,6 +31,9 @@
 				"jquery.objects.form.js",
 				"jquery.objects.page-options.js"
 			]
+		},
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
 		}
 	}
 }
